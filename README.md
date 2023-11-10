@@ -1,6 +1,6 @@
 ![weather-app-react](https://github.com/berkdavul/react-weather-app/assets/101115645/1084c2d1-b5a8-498c-b3e1-8daffd48fe11)
 
-## To get free API you can visit https://home.openweathermap.org/
+## To get free API code, you can visit https://home.openweathermap.org/
 
 
 # Getting Started with Create React App
